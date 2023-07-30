@@ -5,5 +5,5 @@ After that create a database called LocalP
 
 run mpm install
 
-and then run nodemon app.js and the app will be live on localhost:3000
+and then run nodemon app.js in your terminal and the app will be live on localhost:3000
 
